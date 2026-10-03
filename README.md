@@ -1,16 +1,32 @@
-## Hi there 👋
+# Stella Green
 
-<!--
-**st311a-gr33n/st311a-gr33n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity tinkerer, cosplayer, and League of Legends player. she/her.
 
-Here are some ideas to get you started:
+I build tools around digital forensics, the Flipper Zero, and AI-assisted workflows. When I'm not coding, I'm making cosplay or grinding ARAM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+- **[ai-network-visualizer](https://github.com/st311a-gr33n/ai-network-visualizer)** — AI-powered network log analyzer and visualizer that turns scans into interactive graph maps. TypeScript / Electron.
+- **[NULL-001_Maya-Long-Count](https://github.com/st311a-gr33n/NULL-001_Maya-Long-Count)** — Minimal, dependency-free web clock that renders the current date as a Maya Long Count. JavaScript.
+- **[flipper-badge](https://github.com/st311a-gr33n/flipper-badge)** — Flipper Zero digital badge that displays a QR/NFC link and contact info. C.
+- **[flipper-claude-buddy](https://github.com/st311a-gr33n/flipper-claude-buddy)** — Flipper Zero as a physical companion for AI coding agents, with Linux integration. C.
+- **[skill-project-vault](https://github.com/st311a-gr33n/skill-project-vault)** — AI skill framework that scaffolds an Obsidian/Tolaria project vault for shared human-AI memory.
+
+## Tech
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Flipper Zero](https://img.shields.io/badge/-Flipper%20Zero-000000?style=flat)
+
+## Outside the Code
+
+- **League of Legends** — mostly ARAM. Solo queue MID (Akali, Ahri), duo queue ADC (Xayah).
+- **Cosplay** — I make characters I like. Current: Nana Ozaki and Ahri Spirit Blossom. Soon: Rumi and Akali KDA.
+
+## Contact
+
+- [st3114gr33n484.qd.je](http://st3114gr33n484.qd.je/)
