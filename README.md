@@ -1,19 +1,21 @@
 # Stella Green
 
-Cybersecurity tinkerer, cosplayer, and League of Legends player. she/her.
+Cybersecurity tinkerer, Linux daily driver, cosplayer, and League of Legends player. she/her.
 
-I build tools around digital forensics, the Flipper Zero, and AI-assisted workflows. When I'm not coding, I'm making cosplay or grinding ARAM.
+I build tools around digital forensics, the Flipper Zero, and AI-assisted workflows, mostly on Linux, which is where everything I do lives, from dev to daily driving. When I'm not coding, I'm making cosplay or grinding ARAM (The only thing why I still use windows).
 
 ## Featured Projects
 
-- **[ai-network-visualizer](https://github.com/st311a-gr33n/ai-network-visualizer)** — AI-powered network log analyzer and visualizer that turns scans into interactive graph maps. TypeScript / Electron.
-- **[NULL-001_Maya-Long-Count](https://github.com/st311a-gr33n/NULL-001_Maya-Long-Count)** — Minimal, dependency-free web clock that renders the current date as a Maya Long Count. JavaScript.
+- **[ai-network-visualizer](https://github.com/st311a-gr33n/ai-network-visualizer)**: AI-powered network log analyzer and visualizer that turns scans into interactive graph maps. TypeScript / Electron.
+- **[NULL-001_Maya-Long-Count](https://github.com/st311a-gr33n/NULL-001_Maya-Long-Count)**: Minimal, dependency-free web clock that renders the current date as a Maya Long Count. JavaScript.
+- **[NULL-002_Mexica-Calendar-System](https://github.com/st311a-gr33n/NULL-002_Mexica-Calendar-System)** Minimal, dependency-free web clock that renders the current data as a Mexica Calendar.
 - **[flipper-badge](https://github.com/st311a-gr33n/flipper-badge)** — Flipper Zero digital badge that displays a QR/NFC link and contact info. C.
 - **[flipper-claude-buddy](https://github.com/st311a-gr33n/flipper-claude-buddy)** — Flipper Zero as a physical companion for AI coding agents, with Linux integration. C.
 - **[skill-project-vault](https://github.com/st311a-gr33n/skill-project-vault)** — AI skill framework that scaffolds an Obsidian/Tolaria project vault for shared human-AI memory.
 
 ## Tech
 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -30,3 +32,4 @@ I build tools around digital forensics, the Flipper Zero, and AI-assisted workfl
 ## Contact
 
 - [st3114gr33n484.qd.je](http://st3114gr33n484.qd.je/)
+- [Mastodon](https://infosec.exchange/@st3114_gr33n)
