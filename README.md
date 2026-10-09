@@ -9,9 +9,10 @@ I build tools around digital forensics, the Flipper Zero, and AI-assisted workfl
 - **[ai-network-visualizer](https://github.com/st311a-gr33n/ai-network-visualizer)**: AI-powered network log analyzer and visualizer that turns scans into interactive graph maps. TypeScript / Electron.
 - **[NULL-001_Maya-Long-Count](https://github.com/st311a-gr33n/NULL-001_Maya-Long-Count)**: Minimal, dependency-free web clock that renders the current date as a Maya Long Count. JavaScript.
 - **[NULL-002_Mexica-Calendar-System](https://github.com/st311a-gr33n/NULL-002_Mexica-Calendar-System)** Minimal, dependency-free web clock that renders the current data as a Mexica Calendar.
-- **[flipper-badge](https://github.com/st311a-gr33n/flipper-badge)** — Flipper Zero digital badge that displays a QR/NFC link and contact info. C.
-- **[flipper-claude-buddy](https://github.com/st311a-gr33n/flipper-claude-buddy)** — Flipper Zero as a physical companion for AI coding agents, with Linux integration. C.
-- **[skill-project-vault](https://github.com/st311a-gr33n/skill-project-vault)** — AI skill framework that scaffolds an Obsidian/Tolaria project vault for shared human-AI memory.
+- **[flipper-badge](https://github.com/st311a-gr33n/flipper-badge)** - Flipper Zero digital badge that displays a QR/NFC link and contact info. C.
+- **[flipper-claude-buddy](https://github.com/st311a-gr33n/flipper-claude-buddy)** - Flipper Zero as a physical companion for AI coding agents, with Linux integration. C.
+- **[flipper-tamagotchi](https://github.com/st311a-gr33n/flipper-tamagotchi)** - Fork of the tama_p1 game for the flipper zero. C.
+- **[skill-project-vault](https://github.com/st311a-gr33n/skill-project-vault)** - AI skill framework that scaffolds an Obsidian/Tolaria project vault for shared human-AI memory.
 
 ## Tech
 
